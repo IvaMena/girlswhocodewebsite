@@ -6,7 +6,7 @@ body{
 }
 
 html {
-    background: img src="splat.jpg" no-repeat center fixed;
+    background: href="splat.jpg" no-repeat center fixed;
     background-size: cover;
     background-color: indigo;
 }
