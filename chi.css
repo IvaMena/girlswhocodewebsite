@@ -6,7 +6,7 @@ body{
 }
 
 html {
-    background: url("splat.jpg") no-repeat center fixed;
+    background: url("https://github.com/IvaMena/girlswhocodewebsite/blob/master/splat.jpg") no-repeat center fixed;
     background-size: cover;
     background-color: indigo;
 }
